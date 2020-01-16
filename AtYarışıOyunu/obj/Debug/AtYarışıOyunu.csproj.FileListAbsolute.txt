@@ -1,0 +1,33 @@
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe.config
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.pdb
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csprojAssemblyReference.cache
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.frm1.resources
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Properties.Resources.resources
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csproj.GenerateResource.cache
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.exe
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.pdb
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Form2.resources
+C:\Users\Oyun 3 Sabah\source\repos\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Form3.resources
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe.config
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.pdb
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.frm1.resources
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Form2.resources
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Form3.resources
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Properties.Resources.resources
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.exe
+C:\Users\Section1\Desktop\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.pdb
+E:\WindowsFormsExamples\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe.config
+E:\WindowsFormsExamples\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.exe
+E:\WindowsFormsExamples\AtYarışıOyunu\bin\Debug\AtYarışıOyunu.pdb
+E:\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csprojAssemblyReference.cache
+E:\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.frm1.resources
+E:\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Form2.resources
+E:\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Form3.resources
+E:\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.Properties.Resources.resources
+E:\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.csproj.GenerateResource.cache
+E:\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.exe
+E:\WindowsFormsExamples\AtYarışıOyunu\obj\Debug\AtYarışıOyunu.pdb
